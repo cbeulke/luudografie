@@ -1,0 +1,17 @@
+{
+  "name": "Luudografie",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Beulke <mail@beulke.net>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.30",
+    "gulp-pug": "^3.2.0",
+    "gulp-web-dependencies": "^1.0.1"
+  }
+}
